@@ -9,7 +9,7 @@ env:
   LOCATION: francecentral
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 844afea3-b82e-4779-9114-4b99910b556b
-  WEBAPP-NAME: rg-eshoponweb-centralfrance -2066215711
+  WEBAPP-NAME: rg-eshoponweb-centralfrance-2066215711
 
 jobs:
   #Build, test and publish .net web project in repository
